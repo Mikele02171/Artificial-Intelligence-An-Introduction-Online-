@@ -1,0 +1,218 @@
+AI and society
+2. Data governance
+
+Group activity: Data governance
+Consider the following question:
+
+What steps can businesses take to safeguard the data that they hold on their customers?
+(Own Answer)
+
+https://segment.com/resources/cdp/protect-customer-data/
+
+1. Only collect vital data.
+You'll decrease the external value of your data. Helps data security because hackers are less likely to steal low-value
+data. But if they collecting names, phone numbers, location data, household income, etc. the more accessible it is for hackers and outsiders
+can retrieve. 
+Increase consumer confidence when you're collecting data that doesn't seem necessary to the costumer/consumer that might place 
+less faith in the business model. 
+
+2. Limiting access to data
+There are fewer points of vulnerability for your organization. Only those who can access their on their own account without any outsiders or third
+party involved. 
+
+3. Use password management tools.
+From 2. this can be improved by using cybersercuity to help employees increase their password security which can reduce 
+the number of risk of hacks. 
+
+4. Avoid data silos
+Data silos are different pieces of data being stored in different places. This leads to disorganisation, non-approved applications can 
+lose track of data management. By avoiding this, You can develop a customer data management strategy will detail exactly where 
+and how data is handled. This prevents storing data in mulitple tools and losing track of what tools you use to handle data.
+
+5. Set minimum security standards
+If you're using a SaaS tool that handles some of your data, but that tool is not secure, your data becomes vulnerable.
+Best to recommand either SOC 2 or ISO 27001. Both of those standards require companies that comply with them to continuously
+monitor and upgrade their data security protocols. This can help make your data to become less vulnerable. 
+
+
+#1. 
+Conducting data audits to find out the amount and 
+location of data held by a business is the first step in protecting digital assets.
+ Businesses must protect not only their own data assets, but also the personal information of customers and partners.
+
+
+#2.Classification of digital assets
+
+Categorizing digital assets based on their importance is a 
+crucial step for any business, as it not only helps businesses avoid security incidents, but also prompts security team members to be more cautious when handling digital assets.
+
+
+
+#3.Create a device management role
+
+Assign an employee to install all software, APIs and access rights on the device. 
+This person should list sources and procedures that corporate employees should never use, establish clear secure onboarding procedures for each employee, require monthly check-ins to ensure they are using secure connections, and only use permitted devices and flash drives.
+
+
+
+#4.Establish access rules for sensitive information
+
+Ensuring the security of corporate assets should be the responsibility 
+of every employee, and at the same time, every employee needs access to relevant information to effectively complete their tasks. Therefore, businesses should establish sensitive information access rules so that employees can access the information they need without threatening and harming the business.
+
+
+
+#5.Log off computers that are not in use in a timely manner
+
+Many corporate office spaces have free desks and computers running - 
+anyone can walk over and log into multiple corporate systems such as email, calendar, 
+and CRM, so make sure employees know to lock their computers when they're away from their desks Very important.
+
+3. AI and Equality
+Individual activity: Considering equality
+It is frequently said that AI can be racist, sexist, possess biases and even compound other kinds of biases that already exist in society.
+
+Read the Nature article AI can be sexist and racist — it’s time to make it fair and consider the following:
+
+
+Should we blame AI for the inequalities that result from its use?
+Depends how AI can be applicated and scaled on different sets of algorithms. For instance Machine Learning 
+is a sub-set of AI which is often used in modern technology. It's purpose was to evaluate and maximise overall
+prediction accuracy for the training data. With enough provided evidence,questions, mnethods and research to come up 
+to improve and stablise our econonmies,societies and business equally. (I believe in science and facts, not gossip) 
+
+
+Who is responsible for biases that cause inequalities?
+Media, News,Academia and Industry. (more to add)
+
+
+4. AI and employment
+Pause and reflect
+Industrial revolutions are often characterised as being driven by:
+
+New cheap inputs,
+New products,
+New processes.
+What are the new inputs, products and processes that have put artificial intelligence 
+at the forefront of the 4th Industrial Revolution?
+
+Machine Vision and Machine decision such as automation, fruit picking to delivery driving. Having 
+electronic helicopters, cars that can automatically can park, drones, AI robots that can help the elderly to walk etc.  
+
+It may be helpful to analyse each preceding industrial revolution and think about 
+who were the winners and losers during each revolution.
+
+Winners are the people who are studying or working into Technology AI,Data Science, Software Engineers, Cyber, IT etc..
+Losers are the people in the future are the ones who are losing their jobs due to automation for example trade, hospitalty,
+Uber Drivers, Delivery Drivers etc...
+
+5. Economic opportunities of AI
+Individual activity: Thinking about how AI impacts society (Youtube Video)
+Watch this panel discussion hosted at the Oxford Union: Artificial Intelligence: An Inhuman Future? (58 minutes) and 
+make notes for yourself while watching the video to consider the following:
+
+Did the panellists focus on weak or strong AI (or both)? 
+(Tshilidzi Marwala): Strong AI (Discuss the early history of AI works)
+(Catherine Havasi): BOTH 
+(Kenneth Cukier): ?!? No formal answer, interested in solutions how Ai can be dervived. 
+
+
+What examples of applying AI did the panellists discuss?
+-Machine Learning (Smart Phone Facial Recognition similarly can apply to a passport)
+Which allows AI to pick up information if it matches to your actual facial features.
+
+-Strong AI: She mentions how Strong AI can perfect task a human can do than a machine would.
+Natural Language Processing: For example help customers from their smartphone or other advanced 
+technology to track down their best resturants nearby. (Example of Weak AI *Must ask in the chat)
+
+-Deep Learning: Not much mentioned. Another panalist mentioned it combines all the data and 
+information whether the algoriithm can surface the relevant variables and covariance that matter 
+a problem or not. In this case pattern matching, used based on mathematics.  
+
+Definition:
+-Machine Consciousness: Knowledge or Situation of a fact. The relationship between input, output and the 
+state of the computer system (machine) is a causal relation to the state of a computer system (machine).
+
+-Student question: Chinese experiment: Thought experiement
+The Chinese Room conundrum argues that a computer cannot have a mind of its own and attaining consciousness is an impossible task for these machines. They can be programmed to mimic the activities of a conscious human being 
+but they can’t have an understanding of what they are simulating on their own. THE BELAMY.
+
+
+Is the overarching outlook of the impact of AI on society a positive or negative one?
+Depands, can data be perfected? Can it be unique? Can it helps us decide our decision making based on
+the realisation? How can we secure our data mangagement prevent others or any third party from using it?
+
+Other Panalist argues is interested understanding correlations without really understanding the causality. How can we
+know exactly the future event holds? i.e. we do not have sufficient evidence or research to know whether or not 
+we be certain about? He also argued that a medicial practioner knows 8/11 telltale signs of severe cancer that an AI can
+identify all of them (Strong AI). Refering to Machine Consciousness. 
+
+-For example understanding weather, global warming, business markets, influctuation etc....
+-Many manufacturing,manual jobs are lost due to the  automation of AI. Losing
+(Blue collar jobs) effecting the economy costing a lot of money many people will lose their jobs.
+
+7. AI and accountability
+Individual activity: Ethical risks to society
+Watch Cansu Canca's talk below on How To Solve AI's Ethical Puzzles (18 minutes) and make notes on what ethical dilemmas and choices arise when considering artificial intelligence. 
+Then go on to read her Forbes article A New Model For AI Ethics in R&D .
+Now consider the following questions:
+
+Should the ethical consideration be integrated into the development of AI systems from their outset 
+or is it acceptable to police ethics after-the-fact? (Do not how to answer this honestly?!)
+
+AI systems: 
+A major ethical issue that arises when considering AI in the workplace is the potential 
+for AI to be discriminatory. Artificial intelligence can have an unfair impact on certain groups of people or individuals. 
+With AI, it is possible to develop software that is inherently biased. 
+
+Poling Ethics: An ethical issue is to Engage in pre-planning,Avoid ethical complacency,
+Consider the consequences, Put up ethics reminders, Remember your meaning and purpose, Think, and then act,
+Set high ethical standards, Make the decision to act ethically. 
+
+Overall, Ethics is an intensely personal and, in many ways, a sensitive topic for
+police officers. Developing an ethical survival mindset has the potential to save your reputation, your career and your life. 
+Leave a legacy of professionalism and ethics to pass on to those you influence.
+ Protecting our communities as police officers is a calling, a privilege and an honor.
+ Remember all who have come before you, and uphold the high standards they have set.
+
+
+Canca presents one view on this question but for the sake of critical debate, 
+can you form an argument for the opposite view? (Similar here ?!)
+
+Recall to Machine Consciousness as we do not argue or be interested in politics or ethics. But rather be interested
+interested in scientific facts and knowledge if we can demonstate sufficient evidence. Whether AI should be 
+relied on when it comes to ethics than police ethics in terms of their principles or prodecure we should 
+normally follow in which any human can decide based and judged on fairness or equity. As of right now
+we can not predict the future or provide any information or take further action when neccasily if we are in the 
+next stage of technology or Artifical Intelligence. As to believe overall that there is system and proedure in place in which 
+we follow if it is existential or not.
+
+
+8. Summary
+What should be done to mitigate risks associated with the development of LAWS?
+Defintion 
+Mitigate: less servere,serious or painful.
+
+Ways to mitigate risks when developing LAWS for example is to
+ is minimising the cost
+schedule, and its performace in order to mitigate risks associated with the developmemnt of LAWS. 
+
+How might people be able to ensure that an AI has goals accurately aligned with human goals?
+What if the human goal is actually to develop LAWS?
+
+LAWS are commonly described as armed weapon systems, which 
+functions in response to changinh cicrumstances in the enrominement in which they are deployed. Which 
+is likely to be applied with Machine Learning and Deep Learning which they both overall folllow the similar. 
+Machine Learning is compressed of creating models used to make on simple data known as traning data. Creating 
+models where it is difficult or unfeasible to develop conventional algorithms to perform needed tasks. Wheras Deep
+Learning is more broader compared to Machine Learning in terms of AI it can determine and recognise and surpress
+human performance which is another way of saying that AI has goals aglined with human goals. If a 
+human goal 
+
+think of some positive goals that society and humanity strive for and how AI can be applied to achieve them. 
+Are there still risks involved?
+
+There is always going to be potential risks involved using AI if we have enough scientific research and evidence,
+and resources when it comes to cost, schedule and its performance. Considering the huge impact on the economy, 
+employment and understanding how can we intergate the tools and knowing or accept what is fair,easlier,enjoyable or accessible people often use AI on a daily basis (i.e. smartphones, andriods,drones, etc.)
+that can be pushed into the new world Computer Science and Technology in the long-term.
