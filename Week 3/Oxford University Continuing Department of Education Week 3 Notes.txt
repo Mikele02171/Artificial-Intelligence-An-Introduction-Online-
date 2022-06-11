@@ -1,0 +1,227 @@
+2. Concept of an agent
+The word 'agent' stands for a broad concept in computer science. Anything can be considered an agent; that which makes actions based on what it detects. 
+To put it more formally, an agent acts on its environment through its actuators​ based on what it perceives from its environment through its sensors.
+Such a broad definition even considers humans as some sort of an agent. We have our five senses to perceive our environment, and we can act on it through our muscles.
+ Even some software can be considered as an agent. Its sensors can be a keyboard, microphone or a hard drive reader. It's environment consists of what is showing on the screen 
+or what is stored on the hard drive. It can act on its environment through playing sounds, showing pictures, or rewriting contents of memory.
+Inputs, or what the agent senses through its sensors, are usually referred to as percepts. We will refer to the complete history of what the agent has perceived as its percept sequence.
+
+3. Structure of an agent
+Individual activity: Terminology about agents
+Thus far we have introduced some basic terminology of what an agent does and how it can interact with its environment. If you read different sources about intelligent agents, 
+you will find that some of the terminologies are a little bit different when referring to the same concepts. 
+
+Watch Professor Michael Wooldridge introducing the concepts of an agent and its environment below.
+ 
+
+Summary 
+What is an Agent?
+Automunous entities automany for itself that's capable of autonommous that having thr capability to decide 
+for itself about its delegated goals.  
+
+The main point about agents is they are autonomous capable independent action.
+Thus: an agent is a computer system capable of autonomous action in some environment, in order to 
+achieve its delegated goals. 
+
+We think of an agent as being in a close-coupled, continual interaction with its environment:
+sense-decide-act-sense-decide-...
+In other words we think of agents being situated in some environment and engaged in a close coupled loop.
+In order to decide for itself to find the best solution of how to achieve its delegated goals.
+
+
+Simple (Uninteresting) Agents
+Thermostat:
+-delegated goal is maintain room temperature (within some certain range)
+(environment changes makes another decision...)
+-actions are heat on/off
+
+UNIX biff program:
+-delegated goal is monitor for incoming email and flag it
+-actions are GUI actions
+
+Simply incoming email, when you have a new email you can decide whether to raise the flag up or down.
+
+They are trivial because the decision making they do is trival.
+
+
+
+-Is the terminology that he uses the same or different from what we have introduced in this unit?
+According to one source by definition an intelligent agent can perceives its environment, takes actions automonously
+in order to set to achieve goals. Overall in comparision in terms what is discussed in this unit is fairly familar with given
+real world examples and explainations given such as the termostat and UNIX biff program.
+
+
+
+
+-How would you describe the structure of the agent (what it does and in what sequence), based on
+Professor Wooldridge's description of the functional loop introduced in the video, 
+in terms of an agent composed of an agent program, sensors and actuators?
+
+We think of an agent program as being in a close-coupled, continual interaction with its environment.In
+terms of an agent and understand its structure is to sense, decide and act and repeat upon whether we 
+can achieve the best outcome or sequence. For example if we input a Python code sting "Hello World" and use the print function
+print("Hello World") it's prints Hello World given us an output. We simply act and telling the computer system what to do
+giving us our output. It we mistype our function prin("Hello World") the computer prints 
+out an error message. Were basically telling or commanding the computer what to do based on our actions in which the computer senses it which
+decides our output which automates out a feedback message or a solution. Considering its factors such as timing speed, space storage and data etc...
+
+
+Group activity: Structure of an agent
+Consider the following questions:
+
+What actuators and sensors would an agent controlling a factory line checking for product quality have?
+Student Answer:
+I believe the sensors that an agent checking for product quality in a factory line would be 
+sensors of weight, dimensions, and measurements of different attributes such as thickness and 
+resistance, depending on the products of the factory line. 
+
+Then depending on what the agent perceives (for example whether the product is under or over the standard weight),
+ the agent then would make the decision of what to do with the product. 
+The actuators could be the instrument that makes the compensating adjustments
+ to reduce the variability or could also be the controller device that removes or keeps the product on the assembly line, 
+in case the decision is to accept or reject the item.
+
+
+What sensors and actuators would an AI agent trading stocks automatically have?
+
+Assume that the AI Agent would use important market indicators as the perceptual data, such as: 
+the stock price and market indices fluctuations, trading patterns across multiple markets, 
+and other data collected from various sources, such as merges and acquisitions and economic indices.
+
+The actuators could be the systems that create the sell or buy orders, 
+and that performs trades or other operational actions,
+like sending alerts when good opportunities appear.
+
+Post your thoughts on the Systems and agents forum to discuss with your classmates and tutor..
+
+
+5. Perfect agents
+
+
+Scenario 1
+
+'Could an agent taking risks and going faster be considered rational in this case?'
+
+Student Response:
+- This would seem rational from the perspective of solely reducing overall times but not rational given the inevitable 
+undesirable consequences that would come about which would be unacceptable in this scenario.
+
+Tutor response:
+if the only goal of the agent was to arrive at the destination in the shortest amount of time then it would trade risk for speed. However,
+ one would hope that transport agents would value the safety and health of its occupants and have goals for this too! However, 
+the tradeoff between the two is more 'grey' and may depend on our personal goals (as humans) - and this may change from day to day! 
+If we're late for work one day we may be tempted opt for a more risky (faster) tram if would get us to work on time...
+ What does everyone else think about this? Would you tolerate a slight increase in failure to reach a destination quicker?
+
+Scenario 2
+
+Assume we are designing a rock-paper-scissors playing agent. What logic should a rational agent follow (assuming we just play a single game)?
+
+Student Response:
+- For one game there is logically no preference as all have equal probability of winning. However, I imagine that rock has a slight preference as a choice for a human agent
+ (as seen as more robust when compared to the other objects), so when taking into account emotions, I'd say a rational choice would be to play paper in a one off game 
+(against a human agent). This would entail knowing something on how humans 
+approach decision making regards to values, judgments, preferences etc and using that information to inform decision making.
+
+Tutor response:
+that's an interesting point regarding the the choice of rock to show strength and robustness. 
+I hadn't thought about this! You're right: as more games are played the AI agent can profile its opponent and anticipate choices. 
+But that first choice is an 'unknown'... unless, the AI has access to historical data on its opponent or more general trends regarding first choices across a sample size of players... 
+Do the rest of group agree? Would you choose rock first in a game of rock-paper-scissors for the same reasons? 
+Is your choice 'random' or based on what you know about your opponent?
+
+8. Simple reflex agent
+Individual activity: Learn about BPMN
+
+
+Summary:
+
+BPMN is a standardised notation for modelling business processes. You can visualise as a sequence or parallel flows.
+(Check out the introduction to BPMN pdf file).
+
+
+Systems and agents
+9. Model-based reflex agents
+
+Individual activity: Model-based reflex agents
+Consider the following questions:
+1.
+From a player's perspective, is the game of black-jack 
+(a) stochastic/deterministic, (b) discrete/continuous, or (c) partially/fully observable?
+The game of black-jack is assumed to be stochastic/deterministic because we can decide the 
+actions without any knowledge where we hold/pass or hit from the player perspective in any given state where in.
+.It can not be continous/discrete because if the player hits over 21 the dealer wins and hence the
+player will lose. This will cause to start a new
+round but this time the cards are shuffled randomly 
+from the dealer as we can not observe or know what other cards the other players (if there is at least one player)
+or the dealer has on hand.
+(Not sure to discuss 
+this on the board)
+
+2.
+Assume you are designing a stoplight. It has an internal clock that ticks every minute. 
+It must show red whenever it's in-between an odd and even tick; it can show green otherwise. 
+It can also receive input through pedestrians pressing a button to signal their wish to pass. 
+Then, eventually, it must turn green for a minute, so they can safely pass.
+It should be red for as much of the time as possible so vehicles can pass through. 
+How many and what different states should it's model-based reflex agent be defined in?
+
+We know that any clock that each contains 12 hours 
+ on the clock with the hour the short hand and the minute 
+hand the long hand. In terms of ticks assume it is the amount of seconds
+where there is 60 seconds per minute.
+
+Overall there are 6 states for the vechines to safely pass through. In states 
+12 to 1, 2 to 3, 4 to 5, 6 to 7, 8 to 9, 10 to 11 where the light turns green, 
+otherwise the light turns red the model should be defined in. (Not sure to discuss 
+this on the board)
+
+
+11. Utility-based agents
+
+Pause and reflect
+Assume we have a robot moving on square tiles of a rectangular room trying
+to get from some tile A to a specific tile B. It recognises if it has reached B, 
+it is goal-based. However, it doesn't have a notion of proximity to the target tile.
+It explores a possible set of actions by just walking in specific directions to find tile B.
+
+What could go wrong?
+
+Due to the possible number of different outcomes over a lengthy game, 
+searching for a goal state through exploring every possible action sequence is infeasible.
+In which there is no unique sequence the robot should follow.
+Instead, it is preferable if the agent has access to estimating how useful a particular state is.
+In order to acheieve the sutiable or best solution for the robot
+to reach title B. 
+
+
+12. Summary
+(MORE TO ADD)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
