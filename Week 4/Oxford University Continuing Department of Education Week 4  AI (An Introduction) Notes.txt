@@ -1,0 +1,128 @@
+2. Early ideas: Logic and language
+Individual activity: Logic and language
+
+
+Assume I have a mathematical language capable of expressing a proof to a statement I want to prove. 
+I check all the possible proofs up to a given length and I 
+haven't found a proof. Could I consider the statement to be disproven?
+
+Answer:
+My Answer:
+No, because we can not accept as accurate based on the proof or statement the number of times. Assume 
+there is a finite amount of them. This number can't be divided by any of the finite number I assumed to exist, and 
+it is not one.
+
+Actual Answer:
+No, Since I have not exhaustively checked all possible proofs by 
+limiting the search to proofs up to a given length,
+one cannot say with certainty that the statement is disproven.
+
+
+Next, assume I am to design a mathematical language from the bottom up, and started off from
+ the following basic letters or expressions. 
+There exist x satisfying ϕ (the Greek letter phi), where x stands for a notion of a variable, 
+like an integer, and ϕ stands for a notion of a statement, 
+like an equation;
+it is not true that ϕ hold (in other words "not ϕ" is true).
+
+Which of the following assumptions is redundant, that is concluded from these two assumptions?
+
+No x satisfies ϕ
+All x satisfies ϕ
+
+Answer: 
+The logic behind may be somewhat confusing. All x satisfies ϕ is the redundant equation. 
+This is because if ϕ cannot hold true (in other words is always false)
+based on our second assumption, 
+then no x can makeϕ true. 
+Therefore the assumption All x satisfies ϕ does not apply given the two stated assumptions.
+
+
+Logic and language
+4. Propositional logic
+
+
+Get the pen and paper to write out a table in terms of true (T) or false (F) arguments.
+
+6. 
+Individual activity: Gödel's incompleteness
+
+Let's focus on the framework of a mathematical language we started to define. 
+Now attempt to extend it so it can handle multiplications as well.
+ Let's say that for all a and b, there is also an integer of a×b. 
+Could you show an obvious statement about multiplication that doesn't conclude 
+from this like the ones we have seen in the case of addition?
+
+Clearly, addition and multiplication is associative, 
+that it doesn't matter where we put the brackets around then: 
+(a+b)+c=a+b+c∨(ab)c=abc. Is this the case when it comes to division?
+
+My Answer: No, because it entirely depends on the order you choose using BODMAS. In this case 
+the order is entirely strict. 
+
+Once you have attempted the questions, post your answers in the Logic and language forum. 
+Your tutor will post their answers before the next unit begins.
+
+
+8. The Halting problem
+Individual activity: The Halting problem?
+Consider the following questions:
+
+Could we find the proof of any mathematical statement in a given language if we were 
+given a magical tool solving the halting problem?
+Is this a rhetoric question? 
+For example if were given a "magical tool" for instance we use software 
+tools such as Python or R-studio software.
+This can allows us to create our own rules and decisions whether we can compute mathematical 
+computations to a certain degree or memory the computer can hold for the halting problem. 
+
+
+Do you think that the problem of finding a proof in a language for a mathematical problem 
+we know can be proven in said language is enumerable?
+
+Depends, It is hard to decide whether or not if it is enumerable, 
+if we set a certain/code or algorithm 
+to a limit or not where we can compute every number or integer 
+where we can escape or continue in an endless loop given 
+yes if it complies or no respectively.
+
+Knowing that the halting problem is undecidable, do you think that the problem 
+of telling if a program has any inputs for which it halts for is decidable?
+
+It is decidable when we can break the loop otherwise will be stuck in the 
+loop if we can set a certain input based what were limiting on.   
+(Not sure, if this is a general answer).
+
+Is it possible that a problem is undecidable, however, both enumerable and co-enumerable?
+
+*()
+ 
+
+Once you have attempted the questions, share your answers in 
+the Logic and language forum and discuss 
+with your classmates and tutor.
+Wait for the tutor to respond. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
