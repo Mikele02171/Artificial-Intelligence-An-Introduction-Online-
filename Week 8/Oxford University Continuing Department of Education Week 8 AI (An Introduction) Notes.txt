@@ -1,0 +1,108 @@
+3. Data science processes
+
+Individual activity: Understanding data science processes
+Mark each answer below as True or False.
+
+Q1. Data exploration is:
+a way to help me to understand data before building predictions.
+the process of finding a dataset.
+the final step in the data science process.
+ANSWER: TRUE,FALSE,FALSE
+
+Q2. Inference is:
+a way of guaranteeing the integrity of a dataset.
+how we collect information.
+a way of characterising the certainty of patterns we might find in data.
+
+TRUE,FALSE,TRUE
+ANSWER: FALSE,FALSE,TRUE
+
+Q3. Prediction is:
+the practice of using data to predict future outcomes and trends.
+a method that guarantees the correctness of assertions we make using data.
+a method for helping us make decisions based on data.
+
+TRUE,FALSE,FALSE
+ANSWER: TRUE,FALSE,TRUE
+
+
+4. Data exploration: An example
+Individual activity: Doing data science
+Question: What are the main activities in data science? [Choose any applicable]
+
+1.Filtering out irrelevant data
+ANSWER:
+Although not discussed, filtering out data is part of an inherent data preparation/cleaning stage.
+
+2.Preliminary exploration of new data
+ANSWER:This is exploring data, like we did in the Little Women example.
+
+3.Counting words
+ANSWER:Not specifically a data science process, 
+but it might be one of the ways we use statistics (summing) to analyse text data.
+
+4.Making scientific guesses based on data
+ANSWER: This is making predictions.
+
+5.Coding
+ANSWER: Not specific to data science, 
+however to do things computationally we usually have to write some code when we do data science.
+
+6.Determining how reliable are patterns observed in data
+ANSWER: This is inference about data.
+
+7. Data imputation
+Individual activity: Data Science and AI
+Question: Mark each of the following statements as True or False.
+
+
+Q1. AI can only be used to solve domain problems.
+ANSWER: FALSE
+
+Q2. De-noising can only be done with machine learning.
+ANSWER:FALSE
+Q3.Feature engineering is usually a manual, human task.
+ANSWER: TRUE
+
+Q4.Machine learning can be used to aid in developing other machine learning models.
+ANSWER: TRUE
+
+Q5.Predictive machine learning models can help deal with missing data.
+ANSWER: TRUE
+
+Q6.Machine learning can always automate data preprocessing.
+ANSWER: FALSE
+
+Pause and reflect
+Throughout this unit we have discussed how data science both lends itself to helping develop 
+AI and how AI techniques can be used to process large amounts of data.
+
+
+But why do you think AI techniques are good for processing large datasets? (perhaps you don't think so!)
+Are there any possible problems with making predictions based on data?
+
+Machine Learning, NLP (Natural Lanaguage Processing),Automation and Robotics,Machine Vision
+are good AI techniques for processing large datasets. The 
+
+Possible outcomes such as interference, overfitting, measuring the efficiency, missing data (incomplete data),
+different estimations,outliners within these models. Varies from different sources can depend on the quality 
+and format. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
