@@ -1,0 +1,184 @@
+2. What is Machine Learning?
+
+Individual activity: Machine learning quiz
+Question: Mark each of the following statements as True or False.
+
+Q1.Expert systems are ML methods.
+True
+Answer: False
+
+Q2.ML algorithms learn automatically from data.
+True
+Answer: True
+
+
+Q3.ML methods are better than expert systems.
+True
+Answer:False
+Q4.Learning from data means model parameters or rules are computed from examples.
+False
+Answer: True
+
+Q5.Humans do not play in analysing data using ML methods.
+False
+Answer: True and False. 
+Humans are always actively involved in the development of a model but not always 
+directly involved in making decisions 
+based a ML model's predictions.
+
+
+4. Unsupervised learning
+Individual activity: Machine learning terminology
+The terminology used around ML can be confusing for newcomers and it is worth taking some time to dive 
+deeper to gain an understanding of how ML and its constituent types are discussed.
+
+First, watch Luv Aggarwal from IBM introducing machine learning and the different related terminology (9 minutes). 
+Then you can read more from IBM about supervised learning and unsupervised learning.
+
+Based on the video and readings, what do you think are the key differences between the learning types?
+(See the NOTES)
+
+Can you consider supervised learning better than unsupervised learning?
+Since they both are necessarily required for machine learning, Supervised Learning focuses
+on the Classification and Regression. Defined by their use of labelled datasets which can pinpoint 
+better accuracy. Whilst Unsupervised Learning focuses on Clustering, Assoication and Dimensionality Reduction, 
+these algorithms discover hidden patterns in unlabelled data. Overall, I would prefer Supervised 
+Learning over Unsupervised Learning because I can work with the data that is easily been given rather than
+given unknown and inaccurate data.
+
+
+NOTES:
+
+AI:
+Machine Learning: Subset within AI
+Deep Learning: Subset within AI, subset from Machine Learning
+
+Focusing on Machine Learning:
+Types of Machine Learning are Supervised Learning 
+1. Classification 
+-Customer Retention: Historical, 
+
+2. Regression (Predictors and Response)
+-Airlines
+
+Unsupervised Learning
+-Unlabelled: 
+1. Clustering 
+-Custlered Segmentation
+-Purchase history 
+-Social media, website activity 
+-Geography 
+
+2. Dimensional Reduction 
+
+Reinforcement Learning
+-Agent takes actions in an environment, we teach a system a certain task. 
+
+
+5. Reinforcement Learning
+Reinforcement learning is quite different in comparison to supervised/unsupervised learning 
+in that it does not rely as much on a large amount of data.
+
+How then is reinforcement learning a useful thing?
+Reinforcement learning is a useful to find solutions to a problem by defining and maximising 
+a reward. Which is the principal learning activity of a training program through pre- and post-session 
+activities that reinforce key objectives. These reinforcement activities are equally as important
+as the principal learning activity and help boost knowledge rentention, engage employees, and 
+drive sustained behaviour changes.
+
+Can you think back to earlier in the course to a type of AI system (Read from the recap)
+that may benefit from this type of learning?
+-Systems and Agents: An agent acts on its environment through its actuators​ 
+based on what it perceives from its environment through its sensors. 
+
+-Expert Systems:
+Typical high-level architecture of an expert system. An expert system usually acquires 
+knowledge from a human expert that is then stored in a kind of database called a knowledge base.
+ Non-experts (user) interact with the expert system via a UI (User Interface) that queries an inference engine - a kind of search engine - that calculates the answer using the expert
+ knowledge stored in the knowledge base, and returns the result to the user. 
+
+6. Summary
+Individual activity: Machine learning recap
+Question: Mark each with the following statements as True or False
+Q1.Regression and classification tasks are forms of supervised learning.
+True
+Answer:True
+
+Q2.Reinforcement learning methods explore different actions maximising 
+the reward of the ones that help to solve the problem.
+
+True
+Answer: True
+
+Q3.In supervised learning, the target outcomes are not known.
+
+False
+Answer: False
+
+Q4.In cluster analysis, the exact features according to which the data points 
+should be sorted into clusters are known.
+ 
+False
+Answer: False
+
+Q5.In machine learning, training and test datasets should share data elements.
+
+False
+Answer: True
+
+
+Group activity: Applying machine learning
+Consider the following questions:
+
+Do you know of an application or task that uses ML?
+Here are some examples,
+-Image Recognition
+-Speech Recognition
+-Traffic prediction
+-Product recommendations
+-Self-driving cars
+-Email Spam and Malware Filtering 
+-Virtual Personal Assistant 
+-Online Fraud Detection
+-Stock Market trading 
+-Medical Diagnosis
+-Automatic Language Translation
+
+
+In the media and on the Web, there is often news about applications that use ML methods.
+ 
+Choose an application that you have recently heard about. Which type of learning do you think was used? 
+Supervised, unsupervised, or reinforcement learning?
+-Image Recognition uses Supervised Leaning (human-guided) and 
+UnSupervised Learning (calculated by software) classification.  
+
+What is a new area in which you would like to apply ML methods?
+-Social Media, Google Translate (Image and Speech recogition)
+
+Can you imagine which type of data you would need to apply it successfully?
+The type of data that i would be imagine depends on their
+-Engagement: Clicks,comments,shares etc.
+-Reach
+-Impressions and video views
+-Follower count and growth over time
+-Profile visits
+-Brand sentiment 
+-Social share of voice
+-Demographic data: age, gender, location, language, bahviours,etc.
+
+Which type of ML will be more useful for your problem?
+Supervised Learning because it can create better accuracy with labelled and efficient data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
