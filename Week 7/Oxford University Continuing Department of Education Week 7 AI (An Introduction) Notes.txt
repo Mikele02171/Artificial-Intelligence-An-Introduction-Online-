@@ -1,0 +1,217 @@
+2. Arriving at the current state of AI
+
+Pause and reflect
+What modern technologies, approaches or developments have contributed
+to the renewed interest in and increased potential of AI?
+-AI Workforce Augementation 
+-Entertainment 
+-Medicine
+-Cybersecurity 
+-Vital Tasks 
+-Transportation
+
+Can you think of any examples of AI applications in use today?
+AI Workforce Augmentation: In the future, we'll see even more of our jobs being outsourced to AI. ...
+
+Better Language Modeling Capability: 
+Language modeling is the process that allows machines to understand and 
+communicate with us in ways we understand. We can even use it to take natural 
+human language and turn it into computer code that can run programs and applications.
+
+Cybersecurity:
+the state of being protected against the criminal or unauthorized use of electronic data, 
+or the measures taken to achieve this.
+
+The Metaverse:
+A virtual-reality space in which users can interact with a computer-generated environment 
+and other users.
+
+Low-Code or No-Code AI:
+types of visual software development environments that allow enterprise developers and 
+citizen developers to drag and drop application components, 
+connect them together and create mobile or web apps.
+
+Data-Centric AI:
+building AI systems with quality data — with a focus on ensuring that the data clearly 
+conveys what the AI must learn.
+
+Autonomous Cars:
+A self-driving car, also known as an autonomous vehicle, autonomous car,
+ driver-less car, or robotic car, is a car incorporating vehicular automation, 
+that is, a ground vehicle that is capable of sensing its environment and moving safely 
+with little or no human input.
+
+Creative AI:
+The simulation of creativity in machines.
+
+3. Big Data
+Individual activity: Big Data
+Beyond the examples given in this unit, can you think of any other 
+AI cases being used to generate value from big data? Write them down.
+
+-Developing smarter products 
+-Developing smarter services 
+-Making business processes more intelligient 
+-Automating repetitive or mundane tasks
+-Automating manufacturing processes 
+
+Reading from the Data protection in the age of big data 
+What measures could be taken to safeguard people’s privacy given 
+the amount of data collected on them?
+
+There are some examples that can protect people's privacy are,
+-Data discovery
+-Data loss prevention (DLP)
+-Storage with built-in data protection 
+-Backup
+-Snapshots
+-Replication 
+-Firewalls
+-Authentication and authorization 
+-Encryption 
+-Data erasure 
+-Disaster recovery 
+
+
+5. AI and healthcare
+Group activity: AI and decision makers
+Consider the following question:
+
+Do you believe that healthcare decisions can be turned over to an AI application, 
+or should the final decisions about patient care always be made by humans?
+
+Student Answer/Discussion:
+When Considering Healthcare, Expert systems have recently been implemented to 
+ease the work of doctors for basic consultation and more for patients. 
+Diseases such as the common cold & fevers are things that can be caught by an 
+AI system using algorithms and sensors to check the patient. 
+However, I believe that the final decision about a patient should always 
+be made by human doctors to reduce room for error as well as make sure 
+the AI system algorithm results are correct. If the final decision is given by a 
+system and it happens to be wrong, the patient would unknowingly think he has the 
+wrong sickness and this would have drastic effects on the body, 
+whereas this would not be the case with a Human Doctor's 
+Conclusion based on the patient's symptoms & much more.
+
+6. AI and automobiles
+What do you view as being the main barriers to the uptake of autonomous vehicles?
+
+Student Answer/Discussion:
+The main barriers to the uptake of autonomous vehicles (AVs) I think are road infrastructure, safety and public confidence.
+Starting with the first barrier, great infrastructure investments are required to make autonomous vehicles viable on the road. 
+These vehicles might need a dedicated lane, well-marked roads, proper space parking, accessibility to electric charging stations,
+ among other investments. There are countries more advanced than others in this type of infrastructure,
+ however coming from Panama, I can mention that great investments are needed to make this possible in Latin America. 
+In addition, it is also necessary to improve the public transportation system in these countries to make the inclusion of AVs more adequate.
+Regarding the second barrier, there are two aspects about safety that I could mention. First, there are the safety concerns of equipment
+failure and concerns for the level of certainty of sensors. Secondly, there is currently a lack of laws, standardizations, certifications, and safety norms. 
+The creation of these can be a long and complicated process. This causes uncertainty for both manufacturers and the public, 
+resulting in slow progress in these technological innovations.
+
+Finally, the lack of public acceptance is a major barrier at present, as many people are not ready to trust 100% in this type of technology.
+However, with time and with the correct demonstration of the safety of these vehicles, acceptance may increase,
+especially in the younger generations.
+
+Do you believe that greater use of autonomous vehicles would lead to an increase, 
+a decrease, or no significant change in private vehicle ownership rates?
+ I believe that in the short and medium term, once this type of vehicle become more accessible, 
+there would be just a shift from traditional vehicles to autonomous vehicles, so it would not represent 
+a great change in the percentage of car ownership. 
+However, in the long term,  AVs could popularize and increase different mobility services such as public cars, 
+car sharing, car subscriptions, decreasing the ownership of cars, mostly in big and urban cities.
+
+
+8. Machine translation
+Pause and reflect
+Read the article The Statistics Behind Google Translate.
+Consider whether or not Google's approach to machine translation makes sense. 
+
+Think about the methods introduced in the previous units of the course so far. 
+Do you think any of those methods could do a better job? 
+
+Overall, it depends on the large volume of words inputted into the dictornary as well as some rules. 
+I think the methods from the previous units such as Agents systems and BMP are relevant and appliable 
+in this case since Google and many other 
+translation sites relies on Statistical Modelling and Bayesian algorithm reply both on their translation and probabiltity
+respectively described that their quality of raw data becomes the key to the success of any 
+translation model. To say that Google's approach to machine translation of this course makes sense thus far.
+
+9. Future of AI
+Pause and reflect
+Are humans better at certain jobs than computers?
+
+Computers are good at things like repetitive tasks, parallel processing, and data manipulation. 
+Humans are good at things like communication, creativity, and empathy.
+
+
+So, will machines replace humans for many jobs? The answer is unequivocal. 
+However, I assert that with every job taken over by machines, there will be an equal number of opportunities 
+for jobs to be done by people. Some of these human jobs will be of the creative type.
+Should computers replace humans, if they can do a better job than humans.
+They have better memories, so they can be fed a large amount of information, 
+and can tap into all of it almost instantaneously.
+
+
+Read the 2020 Nature article The role of artificial intelligence in achieving the Sustainable Development Goals.
+Individual activity: Sustainable AI economy
+Can you think of any applications of AI that contribute to meeting sustainable development goals?
+
+A clear example of AI's contribution to sustainability is traffic management. Applying Artificial Intelligence 
+in urban mobility allows traffic jams to be predicted and alternative routes to be suggested.
+
+
+Do you believe AI will contribute positively or negatively to sustainable development? Why do you think this?
+AI has the potential to accelerate global efforts to protect the environment and conserve resources by detecting 
+energy emission reductions, CO2 removal, helping develop greener 
+transportation networks, monitoring deforestation, and predicting extreme weather conditions.
+
+
+10. Ethics of AI
+How will AI affect the rights of people around the world?
+AI can also work against equality, the prohibition of discrimination, and access to other fundamental rights, 
+such as political and personal freedom. AI is already predicting marketing trends based on collected user data,
+ which many people find unethical. One example often cited is algorithmic bias discrimination.
+
+Are we able to discern the difference between a sentient being and one programmed to mimic sentience?
+If were talking about AI, AI can fake their emotions but whether they can feel those emotions is another matter.
+ We call a creature sentient if it can perceive, reason and think, and also if it might suffer or feel pain
+
+What rights do you think could or should be given to an AI robot?
+Because of this legal fiction, they can be granted legal rights. Such rights protect the interests of human beings.
+Robots might be granted legal rights for the same reason, but this would mean that we have to regard them as legal persons.
+However, the idea of legal robot rights also has met with controversy
+
+
+How similar is switching off an advanced AI (e.g. an Artificial General Intelligence, AGI) to passing a death sentence?
+As with Facebook, AI can cause serious harm in the world before reaching “general intelligence” 
+or “competency” and yet it is already impossible to turn off. The AI that we use today is exceptionally useful for many different tasks. 
+That doesn't mean it is always positive – it is a tool which, if used maliciously or incorrectly,
+can have negative consequences. 
+Despite this, it currently seems to be unlikely to become an existential threat to humanity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
